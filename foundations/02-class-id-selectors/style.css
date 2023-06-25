@@ -1,0 +1,15 @@
+/* styles.css */
+
+p {
+    background-color: #ffb6c1;
+    font-family: 'Verdana', 'Dejavu Sans', sans-serif;
+}
+
+#div1 {
+    color:#0000ff;
+    font-size: 36px;
+}
+
+.odd3 {
+    font-size:24px;
+}
